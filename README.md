@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 Saki's GitHub Status
 ![Saki's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakii-ito&show_icons=true&theme=tokyonight&title_color=ff7eb6&icon_color=7ed957)
 
 ## 📚 Most Used Languages
