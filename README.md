@@ -13,7 +13,9 @@
 ## 📊 My GitHub Stats
 ![Saki's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakii-ito&show_icons=true&theme=tokyonight&title_color=ff7eb6&icon_color=7ed957)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakii-ito&layout=compact&theme=tokyonight&title_color=7ed957)
+## 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakii-ito&layout=compact&theme=tokyonight&title_color=ff7eb6&text_color=7ed957)
+
 
 ---
 
