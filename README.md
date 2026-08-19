@@ -1,29 +1,112 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Gaegu&size=32&duration=3000&pause=1000&color=88B888&center=true&vCenter=true&width=500&lines=sakii's+diary+%F0%9F%90%B8;welcome+to+my+page!" alt="Typing SVG" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:7ed957&height=220&text=SAKI🐸PAGE&fontSize=55&fontColor=fff&animation=twinkling)
+</div>
 
-# 🌸🐸 SAKI PAGE 💚✨  
+<br>
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/-%EC%98%81%EC%A7%84%EB%8C%80%ED%95%99%EA%B5%90-FDF6E3?style=flat-square&labelColor=A8D5BA&color=FDF6E3" height="26">
+<img src="https://img.shields.io/badge/-Global%20Systems%20Convergence-FDF6E3?style=flat-square&labelColor=A8D5BA&color=FDF6E3" height="26">
+</div>
 
-## 📊 SAKI'S GITHUB STATUS
-![SAKI'S GITHUB STATS](https://github-readme-stats.vercel.app/api?username=sakii-ito&show_icons=true&theme=tokyonight&title_color=ff7eb6&icon_color=7ed957)
+<br>
 
----
+## 🐸 . 오늘의 한 마디
 
-## 📚 MOST USED LANGUAGES
-![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=sakii-ito&layout=compact&theme=tokyonight&title_color=ff7eb6&text_color=7ed957)
+> AI Agent랑 Web System 공부하면서
+> 포트폴리오 하나씩 완성해나가는 중이에요 🌿
+> 천천히, 꼼꼼하게 만드는 걸 좋아해요!
 
----
+<br>
 
-## 🎀 CUTE BADGES
-![LOVE FROGS](https://img.shields.io/badge/LOVE-FROGS🐸-7ed957?style=flat-square)
-![PROFILE](https://img.shields.io/badge/PROFILE-KAWAII💖-ffb6c1?style=flat-square)
-![LANGUAGE](https://img.shields.io/badge/LANGUAGE-PYTHON🐍-ff99cc)
-![MOOD](https://img.shields.io/badge/MOOD-HAPPY💚-7ed957)
+## 📔 . about me
 
----
+<table>
+<tr><td>
 
-## 🐸 FINAL TOUCH
-<img src="https://media.giphy.com/media/pJWuFQS2ZkK9O/giphy.gif" width="200"/>
+🐸 &nbsp; 영진대학교 · Global Systems Convergence 전공생
+&nbsp;
 
+🌱 &nbsp; AI Agent 수업에서 Claude API로 이것저것 만드는 중
+&nbsp;
+
+🍃 &nbsp; Web System 수업에서 Docker & Flask 공부 중
+&nbsp;
+
+📌 &nbsp; 목표는 배포 가능한 프로젝트로 포트폴리오 채우기
+
+</td></tr>
+</table>
+
+<br>
+
+## 🍀 . my little projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💌 감정일기봇**
+&nbsp;
+동물 캐릭터가 내 감정을 들어주는 봇
+`Pydantic Structured Outputs`
+
+</td>
+<td width="50%" valign="top">
+
+**🌾 커리어 어시스턴트**
+&nbsp;
+페르소나 3개 + 실시간 스트리밍
+`Flask` `Claude API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎲 랜덤 피커**
+&nbsp;
+간단한 랜덤 선택 도우미
+
+</td>
+<td width="50%" valign="top">
+
+**✨ 다음 이야기...**
+&nbsp;
+MCP 공부하는 중, 곧 업데이트!
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧵 . stitched together with
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-FDF6E3?style=flat-square&logo=python&logoColor=88B888&labelColor=FDF6E3" height="28">
+<img src="https://img.shields.io/badge/Flask-FDF6E3?style=flat-square&logo=flask&logoColor=88B888&labelColor=FDF6E3" height="28">
+<img src="https://img.shields.io/badge/Docker-FDF6E3?style=flat-square&logo=docker&logoColor=88B888&labelColor=FDF6E3" height="28">
+<img src="https://img.shields.io/badge/Claude-FDF6E3?style=flat-square&logo=anthropic&logoColor=88B888&labelColor=FDF6E3" height="28">
+<img src="https://img.shields.io/badge/GitHub-FDF6E3?style=flat-square&logo=github&logoColor=88B888&labelColor=FDF6E3" height="28">
+</div>
+
+<br>
+
+## 🐾 . stamp of visits
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sakii-ito&color=88b888&style=flat-square&label=visitors" />
+</div>
+
+<br>
+
+<div align="center">
+
+⸝⸝⸝ 🐸 ⸝⸝⸝
+
+*thanks for stopping by~*
+
+</div>
