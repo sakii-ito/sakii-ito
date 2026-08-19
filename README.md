@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-%EC%98%81%EC%A7%84%EB%8C%80%ED%95%99%EA%B5%90-FDF6E3?style=flat-square&labelColor=A8D5BA&color=FDF6E3" height="26">
+<img src="https://img.shields.io/badge/-%EC%98%81%EC%A7%84%EC%A0%84%EB%AC%B8%EB%8C%80%ED%95%99%EA%B5%90-FDF6E3?style=flat-square&labelColor=A8D5BA&color=FDF6E3" height="26">
 <img src="https://img.shields.io/badge/-Global%20Systems%20Convergence-FDF6E3?style=flat-square&labelColor=A8D5BA&color=FDF6E3" height="26">
 </div>
 
@@ -26,7 +26,7 @@
 <table>
 <tr><td>
 
-🐸 &nbsp; 영진대학교 · Global Systems Convergence 전공생
+🐸 &nbsp; 영진전문대학교 · Global Systems Convergence 전공생
 &nbsp;
 
 🌱 &nbsp; AI Agent 수업에서 Claude API로 이것저것 만드는 중
@@ -102,6 +102,14 @@ MCP 공부하는 중, 곧 업데이트!
 </div>
 
 <br>
+
+<div align="center">
+
+⸝⸝⸝ 🐸 ⸝⸝⸝
+
+*thanks for stopping by~*
+
+</div>
 
 <div align="center">
 
