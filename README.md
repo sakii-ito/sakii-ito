@@ -42,6 +42,14 @@
 
 <br>
 
+## 🐍 . nibbling on my grass
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br>
+
 ## 🍀 . my little projects
 
 <table>
