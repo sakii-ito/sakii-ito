@@ -109,6 +109,15 @@ MCP 공부하는 중, 곧 업데이트!
 
 <br>
 
+## 🐌 . my little numbers
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sakii-ito&show_icons=true&hide_title=true&title_color=88B888&text_color=6b6b6b&icon_color=88B888&bg_color=FDF6E3&border_color=A8D5BA&hide_border=false&border_radius=12" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakii-ito&background=FDF6E3&ring=88B888&fire=88B888&currStreakLabel=6b6b6b&sideLabels=6b6b6b&currStreakNum=6b6b6b&sideNums=6b6b6b&dates=6b6b6b&border=A8D5BA&hide_border=false&border_radius=12" width="48%" />
+</div>
+
+<br>
+
 <div align="center">
 
 ⸝⸝⸝ 🐸 ⸝⸝⸝
