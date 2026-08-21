@@ -103,4 +103,5 @@ MCP 공부하는 중, 곧 업데이트!
 
 *thanks for stopping by~*
 
+⸝⸝⸝ 🐸 ⸝⸝⸝
 </div>
