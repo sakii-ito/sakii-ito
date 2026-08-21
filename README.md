@@ -95,21 +95,7 @@ MCP 공부하는 중, 곧 업데이트!
 
 <br>
 
-## 🐾 . stamp of visits
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sakii-ito&color=88b888&style=flat-square&label=visitors" />
-</div>
-
 <br>
-
-<div align="center">
-
-⸝⸝⸝ 🐸 ⸝⸝⸝
-
-*thanks for stopping by~*
-
-</div>
 
 <div align="center">
 
