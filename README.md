@@ -111,10 +111,12 @@ MCP 공부하는 중, 곧 업데이트!
 
 ## 🐌 . my little numbers
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/stats.svg" height="195" />
-<img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/streak.svg" height="195" />
-</div>
+<table align="center">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/stats.svg" height="180" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/streak.svg" height="180" /></td>
+</tr>
+</table>
 
 <br>
 
