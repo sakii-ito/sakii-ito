@@ -101,7 +101,6 @@ MCP 공부하는 중, 곧 업데이트!
 <img src="https://img.shields.io/badge/Python-FDF6E3?style=flat-square&logo=python&logoColor=88B888&labelColor=FDF6E3" height="28">
 <img src="https://img.shields.io/badge/Flask-FDF6E3?style=flat-square&logo=flask&logoColor=88B888&labelColor=FDF6E3" height="28">
 <img src="https://img.shields.io/badge/Docker-FDF6E3?style=flat-square&logo=docker&logoColor=88B888&labelColor=FDF6E3" height="28">
-<img src="https://img.shields.io/badge/Claude-FDF6E3?style=flat-square&logo=anthropic&logoColor=88B888&labelColor=FDF6E3" height="28">
 <img src="https://img.shields.io/badge/GitHub-FDF6E3?style=flat-square&logo=github&logoColor=88B888&labelColor=FDF6E3" height="28">
 </div>
 
