@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Gaegu&size=32&duration=3000&pause=1000&color=88B888&center=true&vCenter=true&width=500&lines=sakii's+diary+%F0%9F%90%B8;welcome+to+my+page!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Gaegu&size=32&duration=3000&pause=1000&color=88B888&center=true&vCenter=true&width=500&lines=saki's+diary+%F0%9F%90%B8;welcome+to+my+page!" alt="Typing SVG" />
 
 </div>
 
@@ -113,13 +113,9 @@ MCP 공부하는 중, 곧 업데이트!
 
 <div align="center">
 
-🐌 contributions
-
 <img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/stats.svg" width="420" />
 
 <br><br>
-
-🔥 streak
 
 <img src="https://raw.githubusercontent.com/sakii-ito/sakii-ito/output/streak.svg" width="420" />
 
@@ -132,5 +128,7 @@ MCP 공부하는 중, 곧 업데이트!
 ⸝⸝⸝ 🐸 ⸝⸝⸝
 
 *thanks for stopping by~*
+
+⸝⸝⸝ 🐸 ⸝⸝⸝
 
 </div>
