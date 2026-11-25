@@ -33,7 +33,7 @@ jobs:
             - name: generate streak stats card
               uses: DenverCoder1/github-readme-streak-stats@main
               with:
-                  options: 'user=${{ github.repository_owner }}&background=FDF6E3&ring=88B888&fire=88B888&currStreakLabel=6b6b6b&sideLabels=6b6b6b&currStreakNum=6b6b6b&sideNums=6b6b6b&dates=6b6b6b&border=A8D5BA&hide_border=false'
+                  options: 'user=${{ github.repository_owner }}&background=FDF6E3&ring=88B888&fire=88B888&currStreakLabel=6b6b6b&sideLabels=6b6b6b&currStreakNum=6b6b6b&sideNums=6b6b6b&dates=6b6b6b&border=A8D5BA&hide_border=false&timezone=Asia/Seoul&hide_current_streak=true'
                   path: dist/streak.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
