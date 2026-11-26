@@ -26,7 +26,7 @@
 <table>
 <tr><td>
 
-🐸 &nbsp; 영진전문대학교 · Global Systems Convergence 전공생
+🐸 &nbsp; 영진전문대학교 · Global Systems Convergence(글로벌 시스템 융합과) 전공생
 &nbsp;
 
 🌱 &nbsp; AI Agent 수업에서 Claude API로 이것저것 만드는 중
